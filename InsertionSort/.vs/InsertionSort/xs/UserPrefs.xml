@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{67A7F0CC-6D0E-4F47-B620-2C889AD4D1E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsertionSort/Program.cs">
+    <Files>
+      <File FileName="InsertionSort/Program.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InsertionSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

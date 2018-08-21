@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/bin/Debug/InsertionSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/bin/Debug/InsertionSort.pdb
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/obj/x86/Debug/InsertionSort.csprojAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/obj/x86/Debug/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/obj/x86/Debug/InsertionSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/InsertionSort/InsertionSort/obj/x86/Debug/InsertionSort.pdb
