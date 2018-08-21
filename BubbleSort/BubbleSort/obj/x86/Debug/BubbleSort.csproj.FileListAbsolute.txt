@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/bin/Debug/BubbleSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/bin/Debug/BubbleSort.pdb
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/obj/x86/Debug/BubbleSort.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/obj/x86/Debug/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/obj/x86/Debug/BubbleSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/BubbleSort/BubbleSort/obj/x86/Debug/BubbleSort.pdb
