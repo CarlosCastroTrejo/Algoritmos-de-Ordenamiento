@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/bin/Debug/SelectionSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/bin/Debug/SelectionSort.pdb
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/obj/x86/Debug/SelectionSort.csprojAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/obj/x86/Debug/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/obj/x86/Debug/SelectionSort.exe
+/Users/carlosemilianocastrotrejo/Documents/C#/Algoritmos de Ordenamiento/SelectionSort/SelectionSort/obj/x86/Debug/SelectionSort.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4427A328-143E-4AE2-B683-4B14F018F9B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelectionSort/Program.cs">
+    <Files>
+      <File FileName="SelectionSort/Program.cs" Line="22" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SelectionSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
