@@ -3,42 +3,41 @@
 
 using namespace std;
 
-void quickSort(int arreglo[],int izquierda,int derecha) 
+static int dividir(int arreglo[],int inicio, int fin)
 {
-	int i = izquierda, j = derecha;
-	int pivote = arreglo[(izquierda+derecha) / 2];
-
-	// Particion
-
-	while (i<=j)
+	int izq, der, pivote, temp;
+	pivote = arreglo[inicio];
+	izq = inicio;
+	der = fin;
+	while (izq < der)
 	{
-		while (arreglo[i]<pivote)
+		while (arreglo[der] > pivote)
+			der--;
+		while ((izq < der) &&
+			(arreglo[izq] <= pivote))
+			izq++;
+		if (izq < der)
 		{
-			i++;
-		}
-		while (arreglo[j]>pivote)
-		{
-			j--;
-		}
-		if (i <= j) 
-		{
-			int temp = arreglo[i];
-			arreglo[i] = arreglo[j];
-			arreglo[j] = temp;
-			i++;
-			j--;
+			temp = arreglo[izq];
+			arreglo[izq] = arreglo[der];
+			arreglo[der] = temp;
 		}
 	}
+	temp = arreglo[der];
+	arreglo[der] = arreglo[inicio];
+	arreglo[inicio] = temp;
+	return der;
+}
 
-	if (izquierda < j) 
+static void quicksort(int arreglo[], int inicio, int fin)
+{
+	int pivote;
+	if (inicio < fin)
 	{
-		quickSort(arreglo, izquierda, j);
+		pivote = dividir(arreglo, inicio, fin);
+		quicksort(arreglo, inicio, pivote - 1);
+		quicksort(arreglo, pivote + 1, fin);
 	}
-	if (i < derecha)
-	{
-		quickSort(arreglo, i, derecha);
-	}
-
 }
 
 int main() 
@@ -46,7 +45,7 @@ int main()
 
 	int arreglo[10]{ 231,564,2131,2312,2333,11,22,33,44,1 };
 
-	quickSort(arreglo,0,9);
+	quicksort(arreglo,0,sizeof(arreglo)/sizeof(arreglo[0]));
 
 	for (int x = 0; x < 10; x++) 
 	{
